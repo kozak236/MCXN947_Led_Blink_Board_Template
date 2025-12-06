@@ -1,0 +1,7 @@
+/home/kozak236/nxp/mcuxpressoide_workspace/MCXN947_Led_Blink_Board_Template/drivers/fsl_clock.h:1492:20:CLOCK_EnableClock	24	static
+/home/kozak236/nxp/mcuxpressoide_workspace/MCXN947_Led_Blink_Board_Template/drivers/fsl_port.h:360:20:PORT_SetPinConfig	32	static
+../board/pin_mux.c:316:6:BOARD_InitBootPins	8	static
+../board/pin_mux.c:342:6:BOARD_InitDEBUG_UARTPins	16	static
+../board/pin_mux.c:416:6:BOARD_InitSWD_DEBUGPins	24	static
+../board/pin_mux.c:513:6:BOARD_InitLEDsPins	32	static
+../board/pin_mux.c:635:6:BOARD_InitBUTTONsPins	24	static
